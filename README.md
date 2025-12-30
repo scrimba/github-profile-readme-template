@@ -6,20 +6,21 @@
 > https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme.
 
 
-<p align="center">
-  <img src="https://i.ibb.co/MyxJRYqR/profile-header.png" alt="Header" width="100%" />
-</p>
-
 # Hello, Universe!
 
-I’m a self-taught full-stack developer that love building tech that revolves around mental health. Things like journaling apps, mood trackers, and tools that help teams talk openly about mental health. Each build leans into crisp design systems, predictable data flows, and small details that feel grounding and human.
+- 🧠 **What I build:** mental health–focused tools (journaling apps, mood trackers, gentle habit trackers)
 
-My current stack blends Vue/Nuxt or React with Tailwind on the UI side, while Node, Supabase, and serverless functions power auth, storage, and automation.
+- 🎨 **What I care about:** calm, accessible UI + thoughtful UX details
 
-Fun fact: I host a tiny Sunday “ship club” where friends drop unfinished side projects on a call until we demo something shippable.
+- 🧩 **Tech I’m using:** Vue/Nuxt or React + Tailwind, Node, Supabase, and serverless functions
+
+- 🚀 **Fun fact:** I host a tiny Sunday “ship club” where friends bring unfinished side projects and we demo something shippable
 
 ### Connect with me
-[LinkedIn](https://scrimba.com) • [Scrimbassador](https://scrimba.com/scrimbassadors) • [Instagram](https://scrimba.com) • [Website](https://scrimba.com)
+[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com/scrimbassadors) • [Portfolio](https://scrimba.com)
+
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
+
 
 ## Projects
 
