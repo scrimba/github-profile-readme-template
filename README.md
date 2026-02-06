@@ -17,7 +17,7 @@
 - 🚀 **Fun fact:** I host a tiny Sunday “ship club” where friends bring unfinished side projects and we demo something shippable
 
 ### Connect with me
-[LinkedIn](https://scrimba.com) • [Scrimba](https://scrimba.com/scrimbassadors) • [Portfolio](https://scrimba.com)
+[LinkedIn](www.linkedin.com/in/yunos-madaya-7165a7324) • [Scrimba]([https://scrimba.com/scrimbassadors](https://scrimba.com/?via=u4372a1e))
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
